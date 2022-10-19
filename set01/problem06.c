@@ -10,9 +10,9 @@ printf("Enter 3 integer numbers\n");
   scanf("%d%d%d", &a, &b, &c);
 
 //function call biggest(a, b, c)
-printf("Biggest of %d, %d and %d is %d\n", a, b, a,
+printf("Biggest of a,b,c is ",
   biggest(a, b, c));
-
+  
 return 0;
   }
 
